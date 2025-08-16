@@ -1,6 +1,10 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
+@font-face {
+  font-family: skip;
+  src: url(/fonts/103fc5fac08dcb15-s.p.woff2);
+}
 body{
   background-color: black;
   
